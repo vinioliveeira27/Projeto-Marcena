@@ -1,6 +1,4 @@
-package model.modulo;
-
-import model.Gaveta;
+package model;
 
 public class ModuloGaveteiro {
 
